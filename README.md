@@ -34,7 +34,7 @@ public class Hariprasad {
 
     String[] currentlyLearning = {
         "Big Data Analytics",
-        "Cybersecurity & Threat Modeling",
+        "Cybersecurity &amp; Threat Modeling",
         "Machine Learning Fundamentals",
         "System Design"
     };
