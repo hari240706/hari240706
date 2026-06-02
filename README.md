@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hariprasad%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Research-Oriented%20CS%20Engineer%20%7C%20Data%20%26%20Security%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hariprasad%20R&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Research-Oriented%20CS%20Engineer%20%7C%20Data%20%26%20Security%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Hariprasad+R+%F0%9F%91%8B;2nd+Year+CS+Engineering+Student;Cybersecurity+%7C+Data+%7C+Problem+Solver;Building+Secure+%26+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey%2C+I'm+Hariprasad+R+%F0%9F%91%8B;2nd+Year+CS+Engineering+Student;Cybersecurity+%7C+Data+%7C+Problem+Solver;Building+Secure+%26+Intelligent+Systems)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hari240706&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/hari240706)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariprasad-r-95096232a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hari240706)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prghariprasad@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hari240706&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views)](https://github.com/hari240706)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/hariprasad-r-95096232a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/hari240706)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:prghariprasad@gmail.com)
 
 </div>
 
@@ -58,35 +58,35 @@ public class Hariprasad {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack &amp; Tools
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
 
-**Databases & Core CS**
+**Databases &amp; Core CS**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=flat-square&amp;logo=databricks&amp;logoColor=white)
 
-**Concepts & Skills**
+**Concepts &amp; Skills**
 
-![Data Structures](https://img.shields.io/badge/Data%20Structures-38BDAE?style=flat-square&logo=thealgorithms&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-BF91F3?style=flat-square&logo=linux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=flat-square&logo=hackthebox&logoColor=white)
-![AI/ML](https://img.shields.io/badge/Intro%20to%20AI-70A5FD?style=flat-square&logo=openai&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-38BDAE?style=flat-square&amp;logo=thealgorithms&amp;logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-BF91F3?style=flat-square&amp;logo=linux&amp;logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=flat-square&amp;logo=hackthebox&amp;logoColor=white)
+![AI/ML](https://img.shields.io/badge/Intro%20to%20AI-70A5FD?style=flat-square&amp;logo=openai&amp;logoColor=white)
 
-**Tools & Platforms**
+**Tools &amp; Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black)
 
 ---
 
@@ -265,7 +265,7 @@ public class Hariprasad {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hari240706&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hari240706&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -275,7 +275,7 @@ public class Hariprasad {
 
 <div align="center">
 
-[![Hariprasad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari240706&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/hari240706)
+[![Hariprasad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari240706&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true)](https://github.com/hari240706)
 
 </div>
 
@@ -455,24 +455,24 @@ public class Hariprasad {
 
 | Project | Stack | Highlights |
 |:---|:---:|:---|
-| [🔐 Cyber Security Authentication System](https://github.com/hari240706) | `Java` `DBMS` `Security` | Studied authentication mechanisms & threat models · Implemented login validation with vulnerability analysis · Evaluated data protection impact in structured secure systems |
+| [🔐 Cyber Security Authentication System](https://github.com/hari240706) | `Java` `DBMS` `Security` | Studied authentication mechanisms &amp; threat models · Implemented login validation with vulnerability analysis · Evaluated data protection impact in structured secure systems |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements &amp; Certifications
 
 <div align="center">
 
 | 🏆 | Achievement | Details |
 |:---:|:---|:---|
-| 📜 | **NPTEL – The Joy of Computing Using Python** | Hands-on computational thinking & Python-based problem solving |
-| 📜 | **NPTEL – Soft Skill Development** | Academic communication & presentation skills for research collaboration |
-| 🖥️ | **TechXConf 2024 Participant** | Technology awareness & professional networking, Chennai |
+| 📜 | **NPTEL – The Joy of Computing Using Python** | Hands-on computational thinking &amp; Python-based problem solving |
+| 📜 | **NPTEL – Soft Skill Development** | Academic communication &amp; presentation skills for research collaboration |
+| 🖥️ | **TechXConf 2024 Participant** | Technology awareness &amp; professional networking, Chennai |
 | 🔥 | **Streak Master** | 87 commits since Sep 2024 |
 | 🎖️ | **NCC 'A' Certificate** | Trained in discipline, teamwork, and leadership through National Cadet Corps |
-| 🌿 | **Tritiya Sopan – Bharat Scouts & Guides** | Community leadership & social responsibility exposure |
+| 🌿 | **Tritiya Sopan – Bharat Scouts &amp; Guides** | Community leadership &amp; social responsibility exposure |
 
 </div>
 
@@ -512,4 +512,4 @@ public class Hariprasad {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
