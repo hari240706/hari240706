@@ -26,7 +26,7 @@ public class Hariprasad {
     String location = "Thiruvallur, Tamil Nadu, India";
     String degree   = "B.E. CSE (2024–2028)";
     String college  = "R.M.K. Engineering College";
-    float  cgpa     = 7.59f; // up to Semester III
+    float  cgpa     = 7.66f; // up to Semester IV
 
     String[] stack = {
         "Java", "Python", "C", "C++", "SQL"
